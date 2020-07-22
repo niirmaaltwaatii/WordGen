@@ -1,0 +1,10 @@
+echo $fn$ln$ag
+echo $fn$ag
+echo $ln$ag
+echo $fn$ln$by
+echo $fn$ln$bd
+echo $fn$ln$by$bd
+echo $fn$by
+echo $fn$bd
+echo $ln$by
+echo $nn$bd
