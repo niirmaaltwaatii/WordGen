@@ -3,12 +3,15 @@
 # WordGen
 # By Niirmaal Twaatii
 
+echo "--------- Inputs ---------"
 read -p "FirstName: " fn
 read -p "LastName: " ln
 read -p "Age: " ag
 read -p "Birth Year: " by
 read -p "Birth Month (eg.January): " bm
 read -p "Birth Day: " bd
+echo "--------------------------"
+echo ""
 
 echo "$fn$ln$ag"
 echo "$fn$ag"
@@ -20,3 +23,7 @@ echo "$fn$by"
 echo "$fn$bd"
 echo "$ln$by"
 echo "$ln$bd"
+
+echo ""
+
+
